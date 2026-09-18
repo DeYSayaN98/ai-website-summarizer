@@ -20,7 +20,7 @@ UI, loading animation, and a one-click copy button.
 | :---: | :---: |
 | <img src="assets/input_field.png" width="300px" alt="Input Field"/> | <img src="assets/url.png" width="300px" alt="URL Display"/> |
 | **3. Loading Animation** | **4. Summarize Result** |
-| <img src="assets/loading_animation.png" width="300px" alt="Loading Animation"/> | <img src="assets/summarize_result.png" width="300px" alt="Summarize Result"/> |
+| <img src="assets/load_animation.png" width="300px" alt="Loading Animation"/> | <img src="assets/summarize_result.png" width="300px" alt="Summarize Result"/> |
 
 ## Folder structure
 
