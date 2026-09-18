@@ -7,9 +7,20 @@ UI, loading animation, and a one-click copy button.
 **Live repo:** https://github.com/DeYSayaN98/ai-website-summarizer
 
 <!-- Demo screenshot hero banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/input_field.png" alt="Distill App Demo" width="750" />
+</p> -->
+
+<!-- Traditional Multi-Row Grid -->
+<p align="center">
+  <h3>Distill App Gallery</h3>
 </p>
+
+| 1. Input Field | 2. URL Display |
+| :---: | :---: |
+| <img src="assets/input_field.png" width="300px" alt="Input Field"/> | <img src="assets/url.png" width="300px" alt="URL Display"/> |
+| **3. Loading Animation** | **4. Summarize Result** |
+| <img src="assets/loading_animation.png" width="300px" alt="Loading Animation"/> | <img src="assets/summarize_result.png" width="300px" alt="Summarize Result"/> |
 
 ## Folder structure
 
