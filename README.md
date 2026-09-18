@@ -6,6 +6,11 @@ UI, loading animation, and a one-click copy button.
 
 **Live repo:** https://github.com/DeYSayaN98/ai-website-summarizer
 
+<!-- Demo screenshot hero banner -->
+<p align="center">
+  <img src="assets/input_field.png" alt="Distill App Demo" width="750" />
+</p>
+
 ## Folder structure
 
 ```
